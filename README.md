@@ -17,7 +17,7 @@ A simple web application that displays pokemon data using the pokemon API
 
 ## Getting Started
 
-[Click Here](#) to see the deployed app!
+[Click Here](https://agoody44.github.io/pokemongallery/) to see the deployed app!
 
 ## Future Enchancments
 - The abilit to favorite and save pokemon to localstorage
